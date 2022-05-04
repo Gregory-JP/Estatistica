@@ -1,2 +1,2 @@
-# Estatistica
-Repositório com algoritmos simples de estatística. Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos, tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
+# Estatistica - Amostragem
+Em estatística e metodologia da pesquisa quantitativa, uma amostra é um conjunto de dados coletados e/ou selecionados de uma população estatística por um procedimento definido. Os elementos de uma amostra são conhecidos como pontos amostrais, unidades amostrais ou observações.
