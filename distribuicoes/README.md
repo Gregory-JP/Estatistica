@@ -1,2 +1,4 @@
-# Estatistica
-Repositório com algoritmos simples de estatística. Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos, tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
+# Estatística - Distribuições de Probabilidade
+Em teoria da probabilidade e em estatística, uma distribuição de probabilidade descreve o comportamento aleatório de um fenômeno dependente do acaso.
+
+<img src='https://geokrigagem.com.br/wp-content/uploads/2018/03/dist-continuas.png'></img> <img src='https://geokrigagem.com.br/wp-content/uploads/2018/02/distribuicao-no-r.png'></img>
