@@ -1,2 +1,2 @@
-# Estatistica
-Repositório com algoritmos simples de estatística. Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos, tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
+# Estatística - Probabilidade
+Probabilidade é o estudo das chances de ocorrência de um resultado, que são obtidas pela razão entre casos favoráveis e casos possíveis. Probabilidade é um ramo da Matemática em que as chances de ocorrência de experimentos são calculadas.
